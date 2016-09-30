@@ -1,0 +1,21 @@
+{
+  "name": "sage",
+  "homepage": "https://roots.io/sage/",
+  "authors": [
+    "Ben Word <ben@benword.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "overrides": {
+    "files": [
+      "dist/jquery.bxslider.js",
+      "dist/jquery.bxslider.css"
+    ]
+  },
+  "dependencies": {
+    "bootstrap": "git://github.com/twbs/bootstrap.git#v4.0.0-alpha.4"
+  },
+  "devDependencies": {
+    "bxslider-4": "^4.2.5"
+  }
+}

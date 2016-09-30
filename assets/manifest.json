@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "main.js": {
+      "files": [
+        "scripts/main.js"
+      ],
+      "main": true
+    },
+    "main.css": {
+      "files": [
+        "styles/main.scss"
+      ],
+      "main": true
+    },
+    "rubrick.css": {
+      "files": [
+        "styles/rubrick.scss"
+      ]
+    },
+    "br.css": {
+      "files": [
+        "styles/br.scss"
+      ]
+    },
+    "customizer.js": {
+      "files": [
+        "scripts/customizer.js"
+      ]
+    },
+    "jquery.js": {
+      "bower": ["jquery"]
+    },
+    "gsdk-bootstrapswitch.js": {
+      "files": [
+        "scripts/gsdk-bootstrapswitch.js"
+      ]
+    },
+    "jquery.waypoints.min.js": {
+      "files": [
+        "scripts/jquery.waypoints.min.js"
+      ]
+    },
+    "modernizr.js": {
+      "files": [
+        "scripts/modernizr.js"
+      ]
+    },
+    "rubrick.js": {
+      "files": [
+        "scripts/rubrick.js"
+      ]
+    }
+  },
+  "config": {
+    "devUrl": "http://bucklandandrempel.com"
+  }
+}
